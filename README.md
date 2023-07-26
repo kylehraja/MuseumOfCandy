@@ -10,3 +10,6 @@ The navigation bar is responsive on changes to the dimensions:
 
 Transition changes to the navigation bar background color as we scroll down the web page:
 ![image](https://github.com/kylehraja/MuseumOfCandy/assets/140476247/14774c9d-9893-4c11-af9a-f10d4bb37499)
+
+Text and Images are responsive on changes to the dimensions:
+![image](https://github.com/kylehraja/MuseumOfCandy/assets/140476247/84c4b3ab-d5cc-43f2-968d-c7d5885709e6)
