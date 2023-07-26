@@ -13,3 +13,10 @@ Transition changes to the navigation bar background color as we scroll down the 
 
 Text and Images are responsive on changes to the dimensions:
 ![image](https://github.com/kylehraja/MuseumOfCandy/assets/140476247/84c4b3ab-d5cc-43f2-968d-c7d5885709e6)
+
+How to run webpage:
+
+1) Download and unzip the Museum_Of_Candy.zip file.
+2) Open in vscode.
+3) Install the "live server" extenstion for vscode. https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+4) Open the index.html and run the code (Windows shortcut key: ALT+L+O).
